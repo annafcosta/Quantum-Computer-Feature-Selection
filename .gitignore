@@ -1,5 +1,3 @@
 .idea
-*.exe
-*.o
-*.log
-lending_club.csv
+venv
+
