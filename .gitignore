@@ -1,4 +1,4 @@
-.venv/Lib/site-packages
+.venv/
 .idea
 venv
 lending_club.csv
